@@ -1,2 +1,2 @@
-Hello!
-My name is Omer And Welcome To My Git!
+Hello There!
+Welcome To My Git Profile :)
