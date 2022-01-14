@@ -1,5 +1,5 @@
 # Hi There 👋, My Name Is Omer
-Currently Working as a Researcher.<br>
+I am a Cyber Security Researcher.<br>
 This Git Contains A lot of my own Assembly, C, Python And Many More Codes.<br>
 Enjoy Your Time In Here 😉
 
