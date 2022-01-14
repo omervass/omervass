@@ -1,5 +1,11 @@
-# Hello, My Name Is Omer
-Here You Will Be Able To Find Some Of My Own Projects<br>
+# Hi There 👋, My Name Is Omer
+Currently Working as a Researcher.<br>
+This Git Contains A lot of my own Assembly, C, Python And Many More Codes.<br>
+Enjoy Your Time In Here 😉
+
+``` diff
+! Using Tools/Code/Information From This Git is At your Own Responsibility
+```
 
 ## ![Languages][Language_Logo] Languages
 ![Assembly Language][Assembly_Logo]
