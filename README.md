@@ -3,9 +3,6 @@ I am a Cyber Security Researcher.<br>
 This Git Contains A lot of my own Assembly, C, Python And Many More Codes.<br>
 Enjoy Your Time In Here 😉
 
-``` diff
-! Using Tools/Code/Information From This Git is At your Own Responsibility
-```
 
 ## Languages
 ![Assembly Language][Assembly_Logo]
